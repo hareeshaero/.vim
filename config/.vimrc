@@ -28,6 +28,7 @@ nnoremap <C-l> <C-w>l
 nnoremap <C-j> <C-w>j
 noremap  <C-k> <C-w>k
 nnoremap <tab> gg=G
+nnoremap <C-l> <C-z>
 
 inoremap <up> <nop>
 inoremap <down> <nop>
